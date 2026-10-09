@@ -1,6 +1,6 @@
-# Log — day 281
+# Notes — day 281
 
-- reviewed python notes
-- cleaned up a module
-- next: write tests
-- seed: 31a874e5
+- reviewed sql notes
+- refactored a design
+- next: add examples
+- seed: e764260e
