@@ -1,6 +1,6 @@
-# Ideas — day 282
+# Reading — day 282
 
-- reviewed python notes
-- drafted a checklist
+- reviewed sql notes
+- cleaned up a design
 - next: add examples
-- seed: 4b9dfc83
+- seed: 217a3c50
